@@ -24,7 +24,7 @@ NOTE: We will be updating the course materials throughout the class. You will ne
 This can be accomplished as follows:
 
 ----
-$ git clone https://github.com/ciberkleid/CloudNativeArchitectureClass.git
+$ git clone https://github.com/reshmik/CloudNativeArchitectureClass.git
 ----
 
 === Day One
